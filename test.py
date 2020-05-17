@@ -1,4 +1,4 @@
-user_name = input ("Please type your name")
+user_name = input ("What is your name?")
 
 print ('Hi', user_name,"!")
 
